@@ -1,31 +1,33 @@
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        int index1 = 0;
-        int index2 = 0;
-        int med1 = 0;
-        int med2 = 0;
-        for (int i=0; i<=(nums1.length+nums2.length)/2; i++) {
-            med1 = med2;
-            if (index1 == nums1.length) {
-                med2 = nums2[index2];
-                index2++;
-            } else if (index2 == nums2.length) {
-                med2 = nums1[index1];
-                index1++;
-            } else if (nums1[index1] < nums2[index2] ) {
-                med2 = nums1[index1];
-                index1++;
-            }  else {
-                med2 = nums2[index2];
-                index2++;
-            }
-        }
-
-        // the median is the average of two numbers
-        if ((nums1.length+nums2.length)%2 == 0) {
-            return (float)(med1+med2)/2;
-        }
-
-        return med2;
+        
+        int i = nums1.length;
+        int j = nums2.length;
+        
+        int[] arr = new int[i+j];
+        
+        // Merge two lists into one array
+        System.arraycopy(nums1, 0, arr, 0, i);
+        System.arraycopy(nums2, 0, arr, i, j);
+        
+        // Sort the merged array
+        Arrays.sort(arr);
+        
+        int n = arr.length;
+        
+        if (n%2 == 0) {
+            // If length of array is even
+            int mid = n/2;
+            int a = arr[mid];
+            int b = arr[mid - 1];
+            float testa = a;
+			float testb = b;
+            float ans = (testa+testb)/2;
+            return ans;
+        } else {
+            // If length of array is odd
+            int mid = Math.round(n/2);
+            return arr[mid];
+        }        
     }
 }
