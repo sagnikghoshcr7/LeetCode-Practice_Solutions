@@ -14,8 +14,17 @@
 # Array
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1044-find-common-characters](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1044-find-common-characters) |
 # Hash Table
 |  |
 | ------- |
 | [1044-find-common-characters](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1044-find-common-characters) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+# Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
