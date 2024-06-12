@@ -11,10 +11,12 @@
 # Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0344-reverse-string) |
 # Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0523-continuous-subarray-sum](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0648-replace-words) |
@@ -48,3 +50,7 @@
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
+# Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0075-sort-colors) |
