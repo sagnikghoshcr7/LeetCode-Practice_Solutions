@@ -20,6 +20,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0523-continuous-subarray-sum](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0648-replace-words) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1044-find-common-characters) |
 # Hash Table
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 # Trie
 |  |
 | ------- |
@@ -54,3 +56,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0075-sort-colors) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
+# Counting
+|  |
+| ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
