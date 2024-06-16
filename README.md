@@ -18,6 +18,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0330-patching-array](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0648-replace-words) |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0330-patching-array](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 # Trie
