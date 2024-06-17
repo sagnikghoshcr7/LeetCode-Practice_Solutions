@@ -13,6 +13,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0633-sum-of-square-numbers) |
 # Array
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0633-sum-of-square-numbers) |
 # Prefix Sum
 |  |
 | ------- |
@@ -70,3 +72,7 @@
 |  |
 | ------- |
 | [0502-ipo](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0502-ipo) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0633-sum-of-square-numbers) |
