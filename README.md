@@ -14,6 +14,7 @@
 | [0075-sort-colors](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0853-most-profit-assigning-work) |
 # Array
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | [0502-ipo](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0648-replace-words) |
+| [0853-most-profit-assigning-work](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1044-find-common-characters) |
@@ -43,6 +45,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0330-patching-array](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0502-ipo) |
+| [0853-most-profit-assigning-work](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 # Trie
 |  |
@@ -63,6 +66,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0075-sort-colors) |
 | [0502-ipo](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0502-ipo) |
+| [0853-most-profit-assigning-work](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 # Counting
 |  |
@@ -76,3 +80,4 @@
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0853-most-profit-assigning-work) |
