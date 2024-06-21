@@ -28,6 +28,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1044-find-common-characters) |
+| [1138-grumpy-bookstore-owner](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1138-grumpy-bookstore-owner) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 # Hash Table
@@ -86,3 +87,7 @@
 | [0853-most-profit-assigning-work](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0853-most-profit-assigning-work) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1675-magnetic-force-between-two-balls) |
+# Sliding Window
+|  |
+| ------- |
+| [1138-grumpy-bookstore-owner](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1138-grumpy-bookstore-owner) |
