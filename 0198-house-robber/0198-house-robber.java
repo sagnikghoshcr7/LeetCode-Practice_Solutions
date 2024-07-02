@@ -1,16 +1,16 @@
 class Solution {
-    public int rob(int[] nums) {
-        if (nums.length == 0) return 0;
-        if (nums.length == 1) return nums[0];
-        if (nums.length == 2) return Math.max(nums[0], nums[1]);
-        
-        int[] ans = new int[nums.length];
-        ans[0] = nums[0];
-        ans[1] = Math.max(nums[0], nums[1]);
-        
-        for(int i=2; i<nums.length; i++){
-            ans[i] = Math.max(nums[i] + ans[i-2], ans[i-1]);
+    public int rob(int[] a) {
+        int n = a.length;
+        int[][] dp = new int[2][n];
+        // dp[0][i] -> max money from 0 to ith house if (i-1)th not looted
+        // dp[1][i] -> max money from 0 to ith house if (i-1)th looted
+        dp[0][0] = 0; dp[1][0] = a[0];
+
+        for (int i=1; i<n; i++) {
+            dp[0][i] = dp[1][i-1];
+            dp[1][i] = Math.max(dp[0][i-1] + a[i], dp[1][i-1]);
         }
-        return ans[nums.length-1];
+
+        return Math.max(dp[0][n-1], dp[1][n-1]);
     }
 }
