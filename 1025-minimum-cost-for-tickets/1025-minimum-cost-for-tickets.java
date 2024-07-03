@@ -12,10 +12,6 @@ class Solution {
                 int costDay = dp[i - 1] + costs[0];
                 int costWeek = dp[Math.max(0, i - 7)] + costs[1];
                 int costMonth = dp[Math.max(0, i - 30)] + costs[2];
-                // int costDay = Integer.MAX_VALUE, costWeek = Integer.MAX_VALUE, costMonth = Integer.MAX_VALUE;
-                // if (i>=1) costDay = dp[i-1] + costs[0];
-                // if (i>=7) costWeek = dp[i-7] + costs[1];
-                // if (i>=30) costMonth = dp[i-30] + costs[2];
 
                 dp[i] = Math.min(costDay, Math.min(costWeek, costMonth));
             }
@@ -23,3 +19,8 @@ class Solution {
         return dp[lastDay];
     }
 }
+
+// int costDay = Integer.MAX_VALUE, costWeek = Integer.MAX_VALUE, costMonth = Integer.MAX_VALUE;
+// if (i>=1) costDay = dp[i-1] + costs[0];
+// if (i>=7) costWeek = dp[i-7] + costs[1];
+// if (i>=30) costMonth = dp[i-30] + costs[2];
