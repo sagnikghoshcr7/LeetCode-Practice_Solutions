@@ -192,6 +192,7 @@
 | [0322-coin-change](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0322-coin-change) |
 | [0740-delete-and-earn](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0747-min-cost-climbing-stairs) |
+| [0806-domino-and-tromino-tiling](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0806-domino-and-tromino-tiling) |
 | [1013-fibonacci-number](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1236-n-th-tribonacci-number](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1236-n-th-tribonacci-number) |
