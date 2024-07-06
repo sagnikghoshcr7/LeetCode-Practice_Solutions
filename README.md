@@ -183,6 +183,7 @@
 | [0070-climbing-stairs](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1236-n-th-tribonacci-number) |
+| [2645-pass-the-pillow](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2645-pass-the-pillow) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -214,4 +215,8 @@
 |  |
 | ------- |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Simulation
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
