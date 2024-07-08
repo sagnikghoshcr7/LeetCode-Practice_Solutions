@@ -160,6 +160,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1025-minimum-cost-for-tickets](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1293-three-consecutive-odds](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1293-three-consecutive-odds) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -184,6 +185,7 @@
 | [1013-fibonacci-number](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1642-water-bottles](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2645-pass-the-pillow) |
 ## Dynamic Programming
 |  |
@@ -208,6 +210,7 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1013-fibonacci-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String
 |  |
 | ------- |
@@ -220,5 +223,10 @@
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2645-pass-the-pillow) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
