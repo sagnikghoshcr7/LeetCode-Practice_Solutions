@@ -162,6 +162,7 @@
 | [1293-three-consecutive-odds](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1293-three-consecutive-odds) |
 | [1803-average-waiting-time](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2846-robot-collisions](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
 | ------- |
@@ -179,6 +180,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2846-robot-collisions](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2846-robot-collisions) |
 ## Math
 |  |
 | ------- |
@@ -228,6 +230,7 @@
 | [1803-average-waiting-time](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2645-pass-the-pillow) |
+| [2846-robot-collisions](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2846-robot-collisions) |
 ## Queue
 |  |
 | ------- |
@@ -236,6 +239,7 @@
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2846-robot-collisions](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2846-robot-collisions) |
 ## Greedy
 |  |
 | ------- |
