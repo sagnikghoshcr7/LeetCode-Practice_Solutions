@@ -167,6 +167,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0726-number-of-atoms](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0726-number-of-atoms) |
 | [0740-delete-and-earn](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0740-delete-and-earn) |
 ## Two Pointers
 |  |
@@ -180,6 +181,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0726-number-of-atoms](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0726-number-of-atoms) |
 | [2846-robot-collisions](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2846-robot-collisions) |
 ## Math
 |  |
@@ -218,6 +220,7 @@
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0091-decode-ways) |
+| [0726-number-of-atoms](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0726-number-of-atoms) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Linked List
 |  |
@@ -238,6 +241,7 @@
 ## Stack
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0726-number-of-atoms) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2846-robot-collisions) |
 ## Greedy
