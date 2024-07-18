@@ -131,15 +131,18 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0547-number-of-provinces) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0547-number-of-provinces) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0547-number-of-provinces) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Topological Sort
@@ -149,6 +152,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0547-number-of-provinces) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Array
 |  |
