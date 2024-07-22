@@ -8,8 +8,8 @@ class Solution {
                     heights[j] = temp;
 
                     String temp1 = names[i];
-                        names[i] = names[j];
-                        names[j] = temp1;
+                    names[i] = names[j];
+                    names[j] = temp1;
                 }
             }
         }
