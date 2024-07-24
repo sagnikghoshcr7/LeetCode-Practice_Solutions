@@ -185,6 +185,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1073-number-of-enclaves](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1073-number-of-enclaves) |
 | [1293-three-consecutive-odds](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1293-three-consecutive-odds) |
+| [1333-sort-the-jumbled-numbers](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1380-number-of-closed-islands](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1380-number-of-closed-islands) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -218,6 +219,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0726-number-of-atoms) |
+| [1333-sort-the-jumbled-numbers](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2846-robot-collisions) |
