@@ -200,6 +200,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0076-minimum-window-substring) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0726-number-of-atoms) |
 | [0740-delete-and-earn](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0740-delete-and-earn) |
@@ -259,6 +260,7 @@
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0091-decode-ways) |
 | [0726-number-of-atoms](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0726-number-of-atoms) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -310,4 +312,8 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2472-build-a-matrix-with-conditions](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2472-build-a-matrix-with-conditions) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
