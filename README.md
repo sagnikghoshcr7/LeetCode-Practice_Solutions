@@ -150,6 +150,7 @@
 | [1380-number-of-closed-islands](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1380-number-of-closed-islands) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Graph
 |  |
 | ------- |
@@ -157,6 +158,7 @@
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2472-build-a-matrix-with-conditions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Topological Sort
@@ -325,5 +327,6 @@
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
