@@ -188,6 +188,7 @@
 | [0971-shortest-bridge](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0971-shortest-bridge) |
 | [1025-minimum-cost-for-tickets](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1073-number-of-enclaves](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1073-number-of-enclaves) |
+| [1196-filling-bookcase-shelves](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1293-three-consecutive-odds](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1380-number-of-closed-islands](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1380-number-of-closed-islands) |
@@ -251,6 +252,7 @@
 | [0806-domino-and-tromino-tiling](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0806-domino-and-tromino-tiling) |
 | [1013-fibonacci-number](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1025-minimum-cost-for-tickets) |
+| [1196-filling-bookcase-shelves](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1236-n-th-tribonacci-number](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1511-count-number-of-teams) |
