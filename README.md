@@ -185,6 +185,7 @@
 | [0695-max-area-of-island](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0695-max-area-of-island) |
 | [0740-delete-and-earn](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0747-min-cost-climbing-stairs) |
+| [0921-spiral-matrix-iii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0921-spiral-matrix-iii) |
 | [0971-shortest-bridge](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0971-shortest-bridge) |
 | [1025-minimum-cost-for-tickets](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1073-number-of-enclaves](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1073-number-of-enclaves) |
@@ -304,6 +305,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -339,6 +341,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0695-max-area-of-island) |
+| [0921-spiral-matrix-iii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0921-spiral-matrix-iii) |
 | [0971-shortest-bridge](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0971-shortest-bridge) |
 | [1073-number-of-enclaves](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1380-number-of-closed-islands) |
