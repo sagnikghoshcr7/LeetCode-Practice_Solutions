@@ -178,6 +178,7 @@
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0040-combination-sum-ii) |
 | [0198-house-robber](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0322-coin-change) |
@@ -373,4 +374,8 @@
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
