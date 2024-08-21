@@ -274,6 +274,7 @@
 | [0264-ugly-number-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0322-coin-change) |
 | [0650-2-keys-keyboard](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0664-strange-printer) |
 | [0740-delete-and-earn](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0806-domino-and-tromino-tiling) |
@@ -303,6 +304,7 @@
 | [0076-minimum-window-substring](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0091-decode-ways) |
 | [0273-integer-to-english-words](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0273-integer-to-english-words) |
+| [0664-strange-printer](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0726-number-of-atoms) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
