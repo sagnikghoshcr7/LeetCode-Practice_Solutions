@@ -395,4 +395,8 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0264-ugly-number-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
