@@ -198,6 +198,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0870-magic-squares-in-grid](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0890-lemonade-change) |
+| [0906-walking-robot-simulation](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0921-spiral-matrix-iii) |
 | [0971-shortest-bridge](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0971-shortest-bridge) |
 | [1025-minimum-cost-for-tickets](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1025-minimum-cost-for-tickets) |
@@ -237,6 +238,7 @@
 | [0726-number-of-atoms](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0726-number-of-atoms) |
 | [0740-delete-and-earn](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0740-delete-and-earn) |
 | [0870-magic-squares-in-grid](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0870-magic-squares-in-grid) |
+| [0906-walking-robot-simulation](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -336,6 +338,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1803-average-waiting-time) |
