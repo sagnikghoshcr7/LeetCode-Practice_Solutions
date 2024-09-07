@@ -140,6 +140,7 @@
 | [1073-number-of-enclaves](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1380-number-of-closed-islands) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1484-linked-list-in-binary-tree](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
 |  |
@@ -152,6 +153,7 @@
 | [1073-number-of-enclaves](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1380-number-of-closed-islands) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1484-linked-list-in-binary-tree](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -336,6 +338,7 @@
 ## Linked List
 |  |
 | ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
@@ -375,11 +378,13 @@
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1484-linked-list-in-binary-tree](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1484-linked-list-in-binary-tree](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Matrix
 |  |
