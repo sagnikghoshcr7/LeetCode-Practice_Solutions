@@ -1,5 +1,5 @@
 class Solution {
-        public ListNode[] splitListToParts(ListNode root, int k) {
+    public ListNode[] splitListToParts(ListNode root, int k) {
         ListNode[] res = new ListNode[k];
         int count = 0;
         ListNode cur = root;
