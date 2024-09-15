@@ -246,6 +246,7 @@
 | [0870-magic-squares-in-grid](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -332,6 +333,7 @@
 | [0273-integer-to-english-words](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0273-integer-to-english-words) |
 | [0664-strange-printer](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0726-number-of-atoms) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -451,11 +453,13 @@
 | ------- |
 | [0476-number-complement](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Number Theory
 |  |
