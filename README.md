@@ -194,6 +194,7 @@
 | [0200-number-of-islands](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0539-minimum-time-difference](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0695-max-area-of-island](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0695-max-area-of-island) |
 | [0740-delete-and-earn](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0740-delete-and-earn) |
@@ -270,6 +271,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0539-minimum-time-difference](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0539-minimum-time-difference) |
 | [0726-number-of-atoms](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0726-number-of-atoms) |
 | [1333-sort-the-jumbled-numbers](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -284,6 +286,7 @@
 | [0070-climbing-stairs](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0539-minimum-time-difference) |
 | [0650-2-keys-keyboard](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1013-fibonacci-number) |
@@ -331,6 +334,7 @@
 | [0076-minimum-window-substring](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0091-decode-ways) |
 | [0273-integer-to-english-words](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0539-minimum-time-difference) |
 | [0664-strange-printer](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0726-number-of-atoms) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
