@@ -476,4 +476,8 @@
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Trie
+|  |
+| ------- |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 <!---LeetCode Topics End-->
