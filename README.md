@@ -199,6 +199,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0695-max-area-of-island](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0695-max-area-of-island) |
 | [0729-my-calendar-i](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0731-my-calendar-ii) |
 | [0740-delete-and-earn](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0870-magic-squares-in-grid](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0870-magic-squares-in-grid) |
@@ -273,6 +274,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0729-my-calendar-i](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0731-my-calendar-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sorting
@@ -478,6 +480,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0731-my-calendar-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -495,12 +498,15 @@
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0731-my-calendar-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
