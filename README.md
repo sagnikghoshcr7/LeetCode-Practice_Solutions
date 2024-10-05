@@ -255,6 +255,7 @@
 | [0076-minimum-window-substring](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0076-minimum-window-substring) |
 | [0264-ugly-number-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0726-number-of-atoms) |
 | [0740-delete-and-earn](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0740-delete-and-earn) |
 | [0870-magic-squares-in-grid](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0870-magic-squares-in-grid) |
@@ -280,6 +281,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0567-permutation-in-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
@@ -363,6 +365,7 @@
 | [0179-largest-number](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0179-largest-number) |
 | [0273-integer-to-english-words](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0567-permutation-in-string) |
 | [0664-strange-printer](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0726-number-of-atoms) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -459,6 +462,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0076-minimum-window-substring) |
+| [0567-permutation-in-string](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0567-permutation-in-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Shortest Path
 |  |
