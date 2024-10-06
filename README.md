@@ -229,6 +229,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1803-average-waiting-time) |
+| [1923-sentence-similarity-iii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1923-sentence-similarity-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2035-count-sub-islands) |
@@ -283,6 +284,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0567-permutation-in-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1923-sentence-similarity-iii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
@@ -373,6 +375,7 @@
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1923-sentence-similarity-iii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2502-sort-the-people) |
