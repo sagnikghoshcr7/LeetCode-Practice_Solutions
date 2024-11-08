@@ -1,35 +1,27 @@
 class Solution {
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {
-        List<List<Integer>> results = new ArrayList<>();
-        LinkedList<Integer> comb = new LinkedList<>();
-
         Arrays.sort(candidates);
 
-        backtrack(candidates, comb, target, 0, results);
-        return results;
+        LinkedList<Integer> temp = new LinkedList<>();
+        List<List<Integer>> res = new ArrayList<>();
+        helper(candidates, temp, target, 0, res);
+        return res;
     }
 
-    private void backtrack(int[] candidates, LinkedList<Integer> comb,
-                           Integer remain, Integer curr,
-                           List<List<Integer>> results) {
-        if (remain == 0) {
-            // copy the current combination to the final list.
-            results.add(new ArrayList<Integer>(comb));
+    public void helper(int[] candidates, LinkedList<Integer> temp, Integer rest, Integer curr, List<List<Integer>> res) {
+        if (rest == 0) {
+            res.add(new ArrayList<Integer>(temp));
             return;
         }
 
-        for (int nextCurr = curr; nextCurr < candidates.length; ++nextCurr) {
-            if (nextCurr > curr && candidates[nextCurr] == candidates[nextCurr - 1])
-                continue;
+        for (int i=curr; i<candidates.length; i++) {
+            if (i>curr && candidates[i] == candidates[i-1]) continue;
+            Integer next = candidates[i];
+            if (rest - next < 0) break;
 
-            Integer pick = candidates[nextCurr];
-            // optimization: early stopping
-            if (remain - pick < 0)
-                break;
-
-            comb.addLast(pick);
-            backtrack(candidates, comb, remain - pick, nextCurr + 1, results);
-            comb.removeLast();
+            temp.addLast(next);
+            helper(candidates, temp, rest-next, i+1, res);
+            temp.removeLast();
         }
     }
 }
