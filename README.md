@@ -241,6 +241,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1803-average-waiting-time) |
 | [1923-sentence-similarity-iii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1923-sentence-similarity-iii) |
+| [1940-maximum-xor-for-each-query](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2035-count-sub-islands) |
@@ -586,6 +587,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1940-maximum-xor-for-each-query](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3291-find-if-array-can-be-sorted) |
@@ -596,6 +598,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1694-make-sum-divisible-by-p) |
+| [1940-maximum-xor-for-each-query](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Number Theory
