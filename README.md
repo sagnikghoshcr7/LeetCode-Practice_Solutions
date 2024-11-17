@@ -222,6 +222,7 @@
 | [1196-filling-bookcase-shelves](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1256-rank-transform-of-an-array](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1293-three-consecutive-odds) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1325-path-with-maximum-probability](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -490,6 +491,7 @@
 | [0726-number-of-atoms](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0726-number-of-atoms) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1197-parsing-a-boolean-expression) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -666,4 +668,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0347-top-k-frequent-elements) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1305-number-of-visible-people-in-a-queue) |
 <!---LeetCode Topics End-->
