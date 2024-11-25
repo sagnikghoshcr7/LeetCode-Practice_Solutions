@@ -154,6 +154,7 @@
 | [0322-coin-change](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0695-max-area-of-island) |
+| [0787-sliding-puzzle](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0787-sliding-puzzle) |
 | [0971-shortest-bridge](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0971-shortest-bridge) |
 | [1073-number-of-enclaves](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1380-number-of-closed-islands) |
@@ -212,6 +213,7 @@
 | [0731-my-calendar-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0731-my-calendar-ii) |
 | [0740-delete-and-earn](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0747-min-cost-climbing-stairs) |
+| [0787-sliding-puzzle](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0890-lemonade-change) |
@@ -553,6 +555,7 @@
 | [0036-valid-sudoku](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0695-max-area-of-island) |
+| [0787-sliding-puzzle](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0921-spiral-matrix-iii) |
 | [0971-shortest-bridge](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0971-shortest-bridge) |
