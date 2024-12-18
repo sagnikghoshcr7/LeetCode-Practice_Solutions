@@ -245,6 +245,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1694-make-sum-divisible-by-p) |
@@ -544,6 +545,7 @@
 | [1197-parsing-a-boolean-expression](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -751,6 +753,7 @@
 |  |
 | ------- |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Eulerian Circuit
 |  |
 | ------- |
