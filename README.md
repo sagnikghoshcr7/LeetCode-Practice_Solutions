@@ -222,6 +222,7 @@
 | [0731-my-calendar-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0731-my-calendar-ii) |
 | [0740-delete-and-earn](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0747-min-cost-climbing-stairs) |
+| [0780-max-chunks-to-make-sorted](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0870-magic-squares-in-grid) |
@@ -384,6 +385,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0539-minimum-time-difference) |
 | [0726-number-of-atoms](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0726-number-of-atoms) |
+| [0780-max-chunks-to-make-sorted](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1256-rank-transform-of-an-array](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -541,6 +543,7 @@
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0726-number-of-atoms](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0726-number-of-atoms) |
+| [0780-max-chunks-to-make-sorted](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -556,6 +559,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0624-maximum-distance-in-arrays) |
+| [0780-max-chunks-to-make-sorted](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -752,6 +756,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Eulerian Circuit
