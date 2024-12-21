@@ -486,6 +486,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -669,6 +670,7 @@
 | ------- |
 | [0040-combination-sum-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0040-combination-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0131-palindrome-partitioning) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Heap (Priority Queue)
 |  |
