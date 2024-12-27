@@ -240,6 +240,7 @@
 | [0921-spiral-matrix-iii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0921-spiral-matrix-iii) |
 | [0971-shortest-bridge](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0971-shortest-bridge) |
 | [1025-minimum-cost-for-tickets](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1025-minimum-cost-for-tickets) |
+| [1063-best-sightseeing-pair](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1073-number-of-enclaves) |
 | [1196-filling-bookcase-shelves](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1256-rank-transform-of-an-array](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1256-rank-transform-of-an-array) |
@@ -451,6 +452,7 @@
 | [0806-domino-and-tromino-tiling](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0806-domino-and-tromino-tiling) |
 | [1013-fibonacci-number](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1025-minimum-cost-for-tickets) |
+| [1063-best-sightseeing-pair](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1196-filling-bookcase-shelves](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1236-n-th-tribonacci-number](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
