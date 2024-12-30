@@ -450,6 +450,7 @@
 | [0264-ugly-number-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0664-strange-printer) |
@@ -496,6 +497,7 @@
 | [0131-palindrome-partitioning](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0179-largest-number) |
 | [0273-integer-to-english-words](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0273-integer-to-english-words) |
+| [0516-longest-palindromic-subsequence](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0647-palindromic-substrings) |
