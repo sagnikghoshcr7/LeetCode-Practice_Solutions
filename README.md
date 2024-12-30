@@ -462,6 +462,7 @@
 | [1013-fibonacci-number](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1063-best-sightseeing-pair) |
+| [1170-shortest-common-supersequence](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1236-n-th-tribonacci-number](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1250-longest-common-subsequence) |
@@ -509,6 +510,7 @@
 | [0726-number-of-atoms](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0726-number-of-atoms) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1170-shortest-common-supersequence](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
