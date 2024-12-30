@@ -217,6 +217,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0040-combination-sum-ii) |
+| [0064-minimum-path-sum](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0064-minimum-path-sum) |
 | [0179-largest-number](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0200-number-of-islands) |
@@ -440,6 +441,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0131-palindrome-partitioning) |
@@ -630,6 +632,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0036-valid-sudoku) |
+| [0064-minimum-path-sum](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0695-max-area-of-island) |
 | [0787-sliding-puzzle](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0787-sliding-puzzle) |
