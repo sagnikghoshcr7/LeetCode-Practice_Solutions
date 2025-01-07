@@ -260,6 +260,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1511-count-number-of-teams) |
+| [1524-string-matching-in-an-array](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -528,6 +529,7 @@
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1524-string-matching-in-an-array](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -840,4 +842,8 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0239-sliding-window-maximum) |
 | [2868-continuous-subarrays](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2868-continuous-subarrays) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
