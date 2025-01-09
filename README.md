@@ -293,6 +293,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2358-number-of-ways-to-split-array) |
@@ -547,6 +548,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2465-shifting-letters-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2502-sort-the-people) |
@@ -852,4 +854,5 @@
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1524-string-matching-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
