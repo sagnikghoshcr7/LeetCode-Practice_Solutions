@@ -260,6 +260,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1380-number-of-closed-islands](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1380-number-of-closed-islands) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -397,6 +398,7 @@
 | [0729-my-calendar-i](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0731-my-calendar-ii) |
 | [0907-koko-eating-bananas](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0907-koko-eating-bananas) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
