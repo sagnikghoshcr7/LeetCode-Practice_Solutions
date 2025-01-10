@@ -249,6 +249,7 @@
 | [0921-spiral-matrix-iii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0921-spiral-matrix-iii) |
 | [0971-shortest-bridge](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0971-shortest-bridge) |
 | [1025-minimum-cost-for-tickets](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1025-minimum-cost-for-tickets) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1073-number-of-enclaves) |
 | [1196-filling-bookcase-shelves](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1196-filling-bookcase-shelves) |
@@ -398,6 +399,7 @@
 | [0729-my-calendar-i](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0731-my-calendar-ii) |
 | [0907-koko-eating-bananas](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
