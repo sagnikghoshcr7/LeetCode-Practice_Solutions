@@ -228,6 +228,7 @@
 | [0200-number-of-islands](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -404,6 +405,7 @@
 | [0035-search-insert-position](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0410-split-array-largest-sum) |
@@ -694,6 +696,7 @@
 | [0064-minimum-path-sum](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0695-max-area-of-island) |
 | [0787-sliding-puzzle](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0870-magic-squares-in-grid) |
@@ -850,6 +853,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
