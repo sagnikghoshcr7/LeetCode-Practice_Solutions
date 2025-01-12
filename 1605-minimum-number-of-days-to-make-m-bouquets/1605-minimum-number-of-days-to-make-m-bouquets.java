@@ -1,38 +1,35 @@
 class Solution {
-    private int getNumOfBouquets(int[] bloomDay, int mid, int k) {
-        int numOfBouquets = 0, count = 0;
+    public int minDays(int[] a, int m, int k) {
+        if ((long) m*k > a.length) return -1;
+        int lo = 0, hi = maxEle(a);
+        while (hi-lo>1) {
+            int mid = lo + (hi-lo)/2;
+            if (helper(a, m, k, mid)) hi = mid;
+            else lo = mid;
+        }
 
-        for (int i = 0; i < bloomDay.length; i++) {
-            if (bloomDay[i] <= mid) count++;
+        return hi;
+    }
+
+    public boolean helper(int[] a, int m, int k, int mid) {
+        int bokey = 0, count = 0;
+
+        for (int i=0; i<a.length; i++) {
+            if (a[i] <= mid) count++;
             else count = 0;
 
             if (count == k) {
-                numOfBouquets++;
+                bokey++;
                 count = 0;
             }
         }
 
-        return numOfBouquets;
+        return bokey >= m;
     }
 
-    public int minDays(int[] bloomDay, int m, int k) {
-        int start = 0;
-        int end = 0;
-        for (int day : bloomDay) {
-            end = Math.max(end, day);
-        }
-
-        int minDays = -1;
-        while (start <= end) {
-            int mid = (start + end) / 2;
-
-            if (getNumOfBouquets(bloomDay, mid, k) >= m) {
-                minDays = mid;
-                end = mid - 1;
-            }
-            else start = mid + 1;
-        }
-
-        return minDays;
+    public int maxEle(int[] a) {
+        int max = 0;
+        for (int ele : a) max = Math.max(max, ele);
+        return max;
     }
 }
