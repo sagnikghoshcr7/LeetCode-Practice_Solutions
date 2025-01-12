@@ -297,6 +297,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2047-find-a-peak-element-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2089-maximum-matrix-sum](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2089-maximum-matrix-sum) |
@@ -423,6 +424,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2047-find-a-peak-element-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -712,6 +714,7 @@
 | [1972-rotating-the-box](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2047-find-a-peak-element-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2089-maximum-matrix-sum](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
