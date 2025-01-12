@@ -1,27 +1,32 @@
 class Solution {
-    public boolean search(int[] nums, int target) {
-        int n = nums.length;
-        return recurse(nums, 0, n-1, target);
+    public boolean search(int[] a, int target) {
+        int pivot = findPivot(a);
+
+        return bs(a, 0, pivot-1, target) || bs(a, pivot, a.length-1, target);
     }
-    
-    boolean recurse(int[] nums, int low, int high, int target) {
-        if(low > high)
-            return false;
-        int mid = (low + high)/2;
-        if(target==nums[mid])
-            return true;
-        if(nums[mid] < nums[high])
-           if(target >= nums[mid] && target <= nums[high])
-               return recurse(nums, mid+1, high, target);
-           else
-               return recurse(nums, low, mid-1, target);
-        else if(nums[mid] > nums[high])
-           if(target >= nums[low] && target <= nums[mid])
-               return recurse(nums, low, mid-1, target);
-           else
-               return recurse(nums, mid+1, high, target);
-        else if(nums[mid] == nums[high])
-            return recurse(nums, low, high-1, target);
-        return false;
+
+    public int findPivot(int[] a) {
+        int lo = 0, hi = a.length-1;
+
+        while (hi-lo>1) {
+            while(hi-lo>1 && a[lo] == a[lo+1]) lo++;
+            while(hi-lo>1 && a[hi] == a[hi-1]) hi--;
+
+            int mid = lo + (hi-lo)/2;
+            if (a[mid] > a[hi]) lo = mid;
+            else hi = mid;
+        }
+        return hi;
+    }
+
+    public boolean bs(int[] a, int s, int e, int target) {
+        int lo = s-1, hi = e+1;
+        while (hi-lo>1) {
+            int mid = lo + (hi-lo)/2;
+            if (a[mid] < target) lo = mid;
+            else hi = mid;
+        }
+
+        return (hi >= 0 && hi < a.length && a[hi] == target) ? true : false;
     }
 }
