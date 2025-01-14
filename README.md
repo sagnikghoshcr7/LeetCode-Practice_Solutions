@@ -221,6 +221,7 @@
 | [0035-search-insert-position](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0040-combination-sum-ii) |
+| [0055-jump-game](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -490,6 +491,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0072-edit-distance) |
@@ -657,6 +659,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0455-assign-cookies) |
