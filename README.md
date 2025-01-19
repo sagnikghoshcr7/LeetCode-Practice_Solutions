@@ -156,6 +156,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0322-coin-change) |
+| [0407-trapping-rain-water-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0695-max-area-of-island) |
@@ -240,6 +241,7 @@
 | [0322-coin-change](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0494-target-sum) |
@@ -727,6 +729,7 @@
 | [0074-search-a-2d-matrix](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0695-max-area-of-island](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0695-max-area-of-island) |
 | [0787-sliding-puzzle](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0787-sliding-puzzle) |
 | [0870-magic-squares-in-grid](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0870-magic-squares-in-grid) |
@@ -806,6 +809,7 @@
 | [0239-sliding-window-maximum](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [1325-path-with-maximum-probability](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
