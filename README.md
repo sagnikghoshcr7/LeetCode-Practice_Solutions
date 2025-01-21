@@ -312,6 +312,7 @@
 | [2067-maximum-number-of-points-with-cost](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2089-maximum-matrix-sum](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2145-grid-game](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2145-grid-game) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -754,6 +755,7 @@
 | [2047-find-a-peak-element-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2089-maximum-matrix-sum](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2145-grid-game](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2145-grid-game) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2472-build-a-matrix-with-conditions) |
@@ -864,6 +866,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2145-grid-game](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
