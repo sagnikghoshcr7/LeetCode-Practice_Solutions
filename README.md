@@ -139,6 +139,7 @@
 | [0684-redundant-connection](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0854-making-a-large-island) |
 | [0971-shortest-bridge](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0971-shortest-bridge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0988-flip-equivalent-binary-trees) |
@@ -168,6 +169,7 @@
 | [0695-max-area-of-island](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0695-max-area-of-island) |
 | [0787-sliding-puzzle](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0854-making-a-large-island) |
 | [0971-shortest-bridge](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0971-shortest-bridge) |
 | [1073-number-of-enclaves](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1380-number-of-closed-islands) |
@@ -228,6 +230,7 @@
 | [0547-number-of-provinces](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0695-max-area-of-island) |
+| [0854-making-a-large-island](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1380-number-of-closed-islands) |
@@ -278,6 +281,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0787-sliding-puzzle) |
+| [0854-making-a-large-island](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0890-lemonade-change) |
@@ -767,6 +771,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0695-max-area-of-island](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0695-max-area-of-island) |
 | [0787-sliding-puzzle](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0787-sliding-puzzle) |
+| [0854-making-a-large-island](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0921-spiral-matrix-iii) |
 | [0971-shortest-bridge](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0971-shortest-bridge) |
