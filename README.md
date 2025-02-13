@@ -554,6 +554,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0070-climbing-stairs) |
@@ -613,6 +614,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0091-decode-ways) |
@@ -868,6 +870,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0046-permutations) |
 | [0131-palindrome-partitioning](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0131-palindrome-partitioning) |
