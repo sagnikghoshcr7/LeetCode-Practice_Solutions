@@ -249,6 +249,7 @@
 | [0035-search-insert-position](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0074-search-a-2d-matrix) |
@@ -868,6 +869,7 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0046-permutations) |
 | [0131-palindrome-partitioning](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0494-target-sum) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
