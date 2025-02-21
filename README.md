@@ -146,6 +146,7 @@
 | [1073-number-of-enclaves](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1073-number-of-enclaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1380-number-of-closed-islands](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1380-number-of-closed-islands) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1484-linked-list-in-binary-tree) |
@@ -173,6 +174,7 @@
 | [0971-shortest-bridge](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0971-shortest-bridge) |
 | [1073-number-of-enclaves](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1380-number-of-closed-islands) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1484-linked-list-in-binary-tree) |
@@ -421,6 +423,7 @@
 | [1160-letter-tile-possibilities](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1256-rank-transform-of-an-array](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -769,6 +772,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0988-flip-equivalent-binary-trees) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -784,6 +788,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0988-flip-equivalent-binary-trees) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -968,6 +973,7 @@
 | [0729-my-calendar-i](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0859-design-circular-deque) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2434-design-a-number-container-system](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2434-design-a-number-container-system) |
