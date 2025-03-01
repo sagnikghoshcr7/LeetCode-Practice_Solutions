@@ -374,6 +374,7 @@
 | [2502-sort-the-people](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2502-sort-the-people) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2551-apply-operations-to-an-array](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -478,6 +479,7 @@
 | [1972-rotating-the-box](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2551-apply-operations-to-an-array](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3195-separate-black-and-white-balls) |
@@ -719,6 +721,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2411-spiral-matrix-iv) |
+| [2551-apply-operations-to-an-array](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2645-pass-the-pillow](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2645-pass-the-pillow) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
