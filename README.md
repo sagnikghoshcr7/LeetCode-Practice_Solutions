@@ -695,6 +695,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2502-sort-the-people) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -878,6 +879,7 @@
 | [0567-permutation-in-string](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0567-permutation-in-string) |
 | [1755-defuse-the-bomb](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1755-defuse-the-bomb) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2868-continuous-subarrays](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
