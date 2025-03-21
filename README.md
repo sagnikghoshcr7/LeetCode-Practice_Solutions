@@ -211,6 +211,7 @@
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2201-valid-arrangement-of-pairs](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2201-valid-arrangement-of-pairs) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2472-build-a-matrix-with-conditions](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2472-build-a-matrix-with-conditions) |
@@ -228,6 +229,7 @@
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2472-build-a-matrix-with-conditions](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2472-build-a-matrix-with-conditions) |
 ## Union Find
@@ -362,6 +364,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -457,6 +460,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2300-construct-string-with-repeat-limit](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -704,6 +708,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2300-construct-string-with-repeat-limit) |
