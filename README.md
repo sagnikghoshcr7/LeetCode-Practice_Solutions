@@ -434,6 +434,7 @@
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
 |  |
 | ------- |
@@ -583,6 +584,7 @@
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3430-count-days-without-meetings](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Math
 |  |
 | ------- |
