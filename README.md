@@ -414,6 +414,7 @@
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2846-robot-collisions) |
 | [2868-continuous-subarrays](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2868-continuous-subarrays) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -488,6 +489,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -581,6 +583,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2846-robot-collisions](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2846-robot-collisions) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
