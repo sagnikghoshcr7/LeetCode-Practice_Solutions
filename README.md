@@ -453,6 +453,7 @@
 | [0567-permutation-in-string](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0726-number-of-atoms) |
 | [0740-delete-and-earn](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0740-delete-and-earn) |
+| [0768-partition-labels](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0768-partition-labels) |
 | [0870-magic-squares-in-grid](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0906-walking-robot-simulation) |
@@ -509,6 +510,7 @@
 | [0455-assign-cookies](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0647-palindromic-substrings) |
+| [0768-partition-labels](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0768-partition-labels) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1923-sentence-similarity-iii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1972-rotating-the-box) |
@@ -705,6 +707,7 @@
 | [0647-palindromic-substrings](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0647-palindromic-substrings) |
 | [0664-strange-printer](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0726-number-of-atoms) |
+| [0768-partition-labels](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0768-partition-labels) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -825,6 +828,7 @@
 | [0410-split-array-largest-sum](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0624-maximum-distance-in-arrays) |
+| [0768-partition-labels](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
