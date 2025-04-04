@@ -145,6 +145,7 @@
 | [0988-flip-equivalent-binary-trees](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1073-number-of-enclaves](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1380-number-of-closed-islands](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1380-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -176,6 +177,7 @@
 | [0854-making-a-large-island](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0854-making-a-large-island) |
 | [0971-shortest-bridge](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0971-shortest-bridge) |
 | [1073-number-of-enclaves](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1073-number-of-enclaves) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1380-number-of-closed-islands](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1380-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1396-count-servers-that-communicate) |
@@ -465,6 +467,7 @@
 | [0952-word-subsets](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0952-word-subsets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1160-letter-tile-possibilities](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1160-letter-tile-possibilities) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1256-rank-transform-of-an-array](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -862,6 +865,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -881,6 +885,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
