@@ -362,6 +362,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1972-rotating-the-box](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1972-rotating-the-box) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -622,6 +623,7 @@
 | [1642-water-bottles](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2610-closest-prime-numbers-in-range) |
@@ -1001,6 +1003,7 @@
 | [0494-target-sum](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Heap (Priority Queue)
@@ -1038,6 +1041,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1940-maximum-xor-for-each-query) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -1112,6 +1116,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Divide and Conquer
 |  |
@@ -1159,4 +1164,8 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
