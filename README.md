@@ -641,6 +641,7 @@
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Dynamic Programming
 |  |
@@ -694,6 +695,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Memoization
 |  |
 | ------- |
@@ -769,6 +771,7 @@
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
