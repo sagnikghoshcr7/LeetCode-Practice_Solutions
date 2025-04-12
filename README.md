@@ -271,6 +271,7 @@
 | [0036-valid-sudoku](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0074-search-a-2d-matrix) |
@@ -458,6 +459,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0242-valid-anagram) |
@@ -583,6 +585,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0242-valid-anagram) |
@@ -724,6 +727,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0091-decode-ways) |
