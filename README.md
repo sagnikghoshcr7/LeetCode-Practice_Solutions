@@ -243,6 +243,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0684-redundant-connection) |
@@ -276,6 +277,7 @@
 | [0064-minimum-path-sum](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0162-find-peak-element) |
@@ -461,6 +463,7 @@
 | [0036-valid-sudoku](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0264-ugly-number-ii) |
