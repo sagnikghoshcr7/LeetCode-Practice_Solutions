@@ -458,6 +458,7 @@
 | [0036-valid-sudoku](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -582,6 +583,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0368-largest-divisible-subset) |
@@ -725,6 +727,7 @@
 | [0091-decode-ways](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0273-integer-to-english-words) |
 | [0451-sort-characters-by-frequency](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0516-longest-palindromic-subsequence) |
