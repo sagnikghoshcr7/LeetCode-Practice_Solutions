@@ -387,6 +387,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
