@@ -738,6 +738,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0076-minimum-window-substring) |
