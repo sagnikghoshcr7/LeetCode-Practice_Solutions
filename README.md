@@ -309,6 +309,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0787-sliding-puzzle) |
+| [0797-rabbits-in-forest](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0870-magic-squares-in-grid) |
@@ -478,6 +479,7 @@
 | [0726-number-of-atoms](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0726-number-of-atoms) |
 | [0740-delete-and-earn](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0906-walking-robot-simulation) |
@@ -643,6 +645,7 @@
 | [0368-largest-divisible-subset](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0539-minimum-time-difference) |
 | [0650-2-keys-keyboard](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0650-2-keys-keyboard) |
+| [0797-rabbits-in-forest](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0870-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1236-n-th-tribonacci-number) |
@@ -879,6 +882,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0768-partition-labels](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0797-rabbits-in-forest](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
