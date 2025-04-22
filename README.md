@@ -657,6 +657,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2645-pass-the-pillow) |
@@ -716,6 +717,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2554-minimum-total-distance-traveled](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2586-longest-square-streak-in-an-array) |
@@ -1125,6 +1127,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -1220,6 +1223,7 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3548-find-the-count-of-good-integers) |
 ## Merge Sort
 |  |
