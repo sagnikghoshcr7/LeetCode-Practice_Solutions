@@ -386,6 +386,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -594,6 +595,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2047-find-a-peak-element-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2586-longest-square-streak-in-an-array) |
@@ -626,6 +628,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2502-sort-the-people) |
@@ -863,6 +866,7 @@
 | [0239-sliding-window-maximum](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0859-design-circular-deque) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -906,6 +910,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2089-maximum-matrix-sum](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -1225,6 +1230,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0239-sliding-window-maximum) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2868-continuous-subarrays) |
 ## String Matching
