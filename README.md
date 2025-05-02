@@ -553,6 +553,7 @@
 | [0567-permutation-in-string](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0868-push-dominoes) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1923-sentence-similarity-iii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1972-rotating-the-box) |
@@ -714,6 +715,7 @@
 | [0740-delete-and-earn](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0806-domino-and-tromino-tiling) |
+| [0868-push-dominoes](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1025-minimum-cost-for-tickets) |
@@ -777,6 +779,7 @@
 | [0664-strange-printer](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
