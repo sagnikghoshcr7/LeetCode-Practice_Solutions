@@ -322,6 +322,7 @@
 | [0952-word-subsets](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0952-word-subsets) |
 | [0971-shortest-bridge](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0971-shortest-bridge) |
 | [1025-minimum-cost-for-tickets](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1025-minimum-cost-for-tickets) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1073-number-of-enclaves) |
@@ -908,6 +909,7 @@
 | [0797-rabbits-in-forest](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
