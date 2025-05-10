@@ -448,6 +448,7 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -935,6 +936,7 @@
 | [2681-put-marbles-in-bags](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2681-put-marbles-in-bags) |
 | [2716-prime-subtraction-operation](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2716-prime-subtraction-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
