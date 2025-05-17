@@ -277,6 +277,7 @@
 | [0055-jump-game](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0135-candy) |
@@ -561,6 +562,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0567-permutation-in-string) |
@@ -624,6 +626,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0242-valid-anagram) |
