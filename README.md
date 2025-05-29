@@ -162,6 +162,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -202,6 +203,7 @@
 | [2793-count-the-number-of-complete-components](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Graph
 |  |
 | ------- |
@@ -1007,6 +1009,7 @@
 | [2677-cousins-in-binary-tree-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
 |  |
 | ------- |
