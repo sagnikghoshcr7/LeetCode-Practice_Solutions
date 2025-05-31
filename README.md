@@ -177,6 +177,7 @@
 | [0787-sliding-puzzle](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0971-shortest-bridge) |
 | [1073-number-of-enclaves](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1073-number-of-enclaves) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -328,6 +329,7 @@
 | [0907-koko-eating-bananas](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0921-spiral-matrix-iii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0945-snakes-and-ladders](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0952-word-subsets) |
 | [0971-shortest-bridge](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0971-shortest-bridge) |
 | [1025-minimum-cost-for-tickets](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1025-minimum-cost-for-tickets) |
@@ -1045,6 +1047,7 @@
 | [0854-making-a-large-island](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0921-spiral-matrix-iii) |
+| [0945-snakes-and-ladders](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/0971-shortest-bridge) |
 | [1073-number-of-enclaves](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/1380-number-of-closed-islands) |
