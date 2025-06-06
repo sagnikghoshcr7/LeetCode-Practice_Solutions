@@ -554,6 +554,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2502-sort-the-people) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2586-longest-square-streak-in-an-array) |
@@ -875,6 +876,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2502-sort-the-people) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2755-extra-characters-in-a-string) |
@@ -957,6 +959,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2846-robot-collisions) |
 | [3001-apply-operations-to-maximize-score](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/3001-apply-operations-to-maximize-score) |
@@ -988,6 +991,7 @@
 | [2456-construct-smallest-number-from-di-string](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2509-minimize-xor](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2509-minimize-xor) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/sagnikghoshcr7/LeetCode-Practice_Solutions/tree/master/2681-put-marbles-in-bags) |
