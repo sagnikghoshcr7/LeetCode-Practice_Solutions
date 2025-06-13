@@ -1,12 +1,16 @@
 public class Solution {
     public int minimizeMax(int[] nums, int p) {
-        Arrays.sort(nums);        
+        Arrays.sort(nums);
+        
         int left = 0, right = nums[nums.length - 1] - nums[0];
         
         while (left < right) {
             int mid = (left + right) / 2;
-            if (can_form_pairs(nums, mid, p)) right = mid;
-            else left = mid + 1;
+            if (can_form_pairs(nums, mid, p)) {
+                right = mid;
+            } else {
+                left = mid + 1;
+            }
         }
         
         return left;
